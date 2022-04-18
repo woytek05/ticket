@@ -1,0 +1,845 @@
+1650291943263	geckodriver	INFO	Listening on 127.0.0.1:53561
+1650291943361	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53775" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekhyvVZ"
+1650291943950	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekhyvVZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53775/devtools/browser/4aeac6d9-0bbe-4daa-8fcf-54e57fc7fda8
+1650291945601	Marionette	INFO	Listening on port 46317
+Read port: 46317
+1650291945678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650291966728	Marionette	INFO	Stopped listening on port 46317
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650293044356	geckodriver	INFO	Listening on 127.0.0.1:56889
+1650293044934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47739" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledHsTFp"
+1650293045471	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledHsTFp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47739/devtools/browser/c999d5f0-545e-417a-bee3-ed8f5ededdc8
+1650293046881	Marionette	INFO	Listening on port 36565
+Read port: 36565
+1650293046955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650293064733	Marionette	INFO	Stopped listening on port 36565
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650293275213	geckodriver	INFO	Listening on 127.0.0.1:57599
+1650293275789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesQyfEw"
+1650293276292	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesQyfEw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60985/devtools/browser/490a7e9d-59d2-4a06-b23e-383274032b77
+1650293277406	Marionette	INFO	Listening on port 39083
+Read port: 39083
+1650293277505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650293303871	geckodriver	INFO	Listening on 127.0.0.1:51989
+1650293304420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehAcbPN"
+1650293304907	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehAcbPN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40465/devtools/browser/5c88a2a7-7f24-4a7c-afb4-56783115df7a
+1650293306496	Marionette	INFO	Listening on port 37639
+Read port: 37639
+1650293306539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650293310282	Marionette	INFO	Stopped listening on port 39083
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650293328180	Marionette	INFO	Stopped listening on port 37639
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650293336194	geckodriver	INFO	Listening on 127.0.0.1:53417
+1650293336270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEnQPC0"
+1650293336738	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEnQPC0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40985/devtools/browser/9e1f302d-5781-4e10-b8ab-6dc04eb78ae1
+1650293337968	Marionette	INFO	Listening on port 34131
+Read port: 34131
+1650293337991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650293395193	geckodriver	INFO	Listening on 127.0.0.1:43383
+1650293395742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34405" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelTE7ey"
+1650293396240	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelTE7ey/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34405/devtools/browser/8ad9ed8f-c2cb-422a-a218-6a85f41fa136
+1650293397433	Marionette	INFO	Listening on port 42087
+Read port: 42087
+1650293397460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650293399466	Marionette	INFO	Stopped listening on port 34131
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650293450208	Marionette	INFO	Stopped listening on port 42087
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650294344641	geckodriver	INFO	Listening on 127.0.0.1:51823
+1650294345215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55373" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePxJ5xx"
+1650294345692	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePxJ5xx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55373/devtools/browser/3635becd-3ab0-4ab3-bd85-711ea4e14ea2
+1650294346851	Marionette	INFO	Listening on port 45777
+Read port: 45777
+1650294346933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650294380498	geckodriver	INFO	Listening on 127.0.0.1:53679
+1650294381050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54683" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4A4T9F"
+1650294381568	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4A4T9F/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54683/devtools/browser/536f30e3-7e7c-4a9f-9915-4293e231a7f2
+1650294382762	Marionette	INFO	Listening on port 46719
+Read port: 46719
+1650294382869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650294399149	Marionette	INFO	Stopped listening on port 46719
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650294450048	Marionette	INFO	Stopped listening on port 45777
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650294453713	geckodriver	INFO	Listening on 127.0.0.1:58651
+1650294454287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJpGJ0i"
+1650294454758	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJpGJ0i/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59805/devtools/browser/0f31e958-6145-4463-a4e0-dae8b606048b
+1650294455975	Marionette	INFO	Listening on port 35309
+Read port: 35309
+1650294456003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+1650295376086	geckodriver	INFO	Listening on 127.0.0.1:37295
+1650295376644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37403" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiley1EOSS"
+1650295377171	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiley1EOSS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37403/devtools/browser/1ddff908-b2d7-4f32-8be6-f0fb6e16e650
+1650295378533	Marionette	INFO	Listening on port 45391
+Read port: 45391
+1650295378583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650295395796	Marionette	INFO	Stopped listening on port 45391
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650295431764	geckodriver	INFO	Listening on 127.0.0.1:44587
+1650295432316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47399" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileL58Y4t"
+1650295432783	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileL58Y4t/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47399/devtools/browser/62868ca2-6d4a-4760-b3fe-082044c5bb53
+1650295434003	Marionette	INFO	Listening on port 35775
+Read port: 35775
+1650295434035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+1650295496362	geckodriver	INFO	Listening on 127.0.0.1:58351
+1650295496914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44589" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGKN4H4"
+1650295497414	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGKN4H4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44589/devtools/browser/afea13a2-cf5f-4950-86cd-a17fa4bb4664
+1650295499413	Marionette	INFO	Listening on port 41149
+Read port: 41149
+1650295499444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650295509509	Marionette	INFO	Stopped listening on port 41149
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650295528025	Marionette	INFO	Stopped listening on port 35775
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1650295530167	Marionette	INFO	Stopped listening on port 35309
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650295540849	geckodriver	INFO	Listening on 127.0.0.1:41575
+1650295540946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLqu6Ox"
+1650295541480	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLqu6Ox/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56109/devtools/browser/d37bf525-9469-4fbe-b798-96bca6953b1d
+1650295542773	Marionette	INFO	Listening on port 33281
+Read port: 33281
+1650295542874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650295619473	geckodriver	INFO	Listening on 127.0.0.1:50055
+1650295619541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefum9t6"
+1650295620110	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefum9t6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58409/devtools/browser/39a58f4d-ec69-4b54-af71-eaf4868c9235
+1650295621403	Marionette	INFO	Listening on port 33169
+Read port: 33169
+1650295621459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650295704568	Marionette	INFO	Stopped listening on port 33281
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650295705598	Marionette	INFO	Stopped listening on port 33169
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650295712673	geckodriver	INFO	Listening on 127.0.0.1:34427
+1650295713246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelcxf9p"
+1650295713722	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelcxf9p/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51381/devtools/browser/1a443f71-ee88-4b2d-b566-d1339f24008c
+1650295715065	Marionette	INFO	Listening on port 33511
+Read port: 33511
+1650295715164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650295772252	Marionette	INFO	Stopped listening on port 33511
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650295888108	geckodriver	INFO	Listening on 127.0.0.1:39191
+1650295888683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44375" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIzoUla"
+1650295889165	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIzoUla/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44375/devtools/browser/1c26f6df-1d5f-4509-80f4-02bd7c8ffe89
+1650295890392	Marionette	INFO	Listening on port 34357
+Read port: 34357
+1650295890504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650295940154	Marionette	INFO	Stopped listening on port 34357
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650296248517	geckodriver	INFO	Listening on 127.0.0.1:52317
+1650296248605	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileswNkIW"
+1650296249076	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileswNkIW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53549/devtools/browser/298155ad-38be-4250-8a64-7f61ecbc2978
+1650296250260	Marionette	INFO	Listening on port 36249
+Read port: 36249
+1650296250321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650296437901	geckodriver	INFO	Listening on 127.0.0.1:45759
+1650296438454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57501" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7Z4Gnd"
+1650296438927	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7Z4Gnd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57501/devtools/browser/e286a920-c645-49d2-aaaf-34438c7ed914
+1650296440162	Marionette	INFO	Listening on port 41021
+Read port: 41021
+1650296440276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650296518887	geckodriver	INFO	Listening on 127.0.0.1:50033
+1650296519454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38325" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFJJsYX"
+1650296519959	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFJJsYX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38325/devtools/browser/ea776445-87a0-4630-8228-c10499451f7f
+1650296521205	Marionette	INFO	Listening on port 41323
+Read port: 41323
+1650296521270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650296547472	Marionette	INFO	Stopped listening on port 41021
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650296548627	Marionette	INFO	Stopped listening on port 41323
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650296551088	Marionette	INFO	Stopped listening on port 36249
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650296553938	geckodriver	INFO	Listening on 127.0.0.1:35725
+1650296554511	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegijsXV"
+1650296554981	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegijsXV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38061/devtools/browser/fa7d7e47-0ac0-4ea2-8bcc-f8250c66eccf
+1650296556117	Marionette	INFO	Listening on port 36405
+Read port: 36405
+1650296556228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650296589358	geckodriver	INFO	Listening on 127.0.0.1:35637
+1650296589922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileF6M22O"
+1650296590427	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileF6M22O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39413/devtools/browser/63b2d3a1-f933-485c-9f9b-d4e1075d62a6
+1650296591629	Marionette	INFO	Listening on port 46557
+Read port: 46557
+1650296591738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650296615157	Marionette	INFO	Stopped listening on port 46557
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1650296974759	Marionette	INFO	Stopped listening on port 36405
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650296977504	geckodriver	INFO	Listening on 127.0.0.1:36943
+1650296978078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47717" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLa6TTb"
+1650296978560	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLa6TTb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47717/devtools/browser/aa4fad60-e638-4897-8bc6-9579bff586ca
+1650296979748	Marionette	INFO	Listening on port 45169
+Read port: 45169
+1650296979793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650297050552	Marionette	INFO	Stopped listening on port 45169
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650297054986	geckodriver	INFO	Listening on 127.0.0.1:40423
+1650297055560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRTapKI"
+1650297056033	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRTapKI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37015/devtools/browser/4a7693ca-5a6a-4f1f-a2fb-9d795a151827
+1650297057319	Marionette	INFO	Listening on port 38615
+Read port: 38615
+1650297057380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650297071561	Marionette	INFO	Stopped listening on port 38615
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650297073144	geckodriver	INFO	Listening on 127.0.0.1:47149
+1650297073249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58481" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledHTsMh"
+1650297073845	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledHTsMh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58481/devtools/browser/46b3b3b3-c9d3-4b20-b347-097c1d52612f
+1650297075308	Marionette	INFO	Listening on port 39833
+Read port: 39833
+1650297075375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650297076301/Po%C5%82aniec/Krak%C3%B3w/c%7C34242/c%7C55156/18.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650297115297	Marionette	INFO	Stopped listening on port 39833
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650297392289	geckodriver	INFO	Listening on 127.0.0.1:33119
+1650297392863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCU55kJ"
+1650297393351	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCU55kJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58041/devtools/browser/68f2c319-499e-4d4a-868b-6d52fb7d8733
+1650297394604	Marionette	INFO	Listening on port 45987
+Read port: 45987
+1650297394679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650297395938/Po%C5%82aniec/Krak%C3%B3w/c%7C34242/c%7C55156/18.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+1650297424981	Marionette	INFO	Stopped listening on port 45987
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1650297716192	geckodriver	INFO	Listening on 127.0.0.1:50797
+1650297716318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileV327uw"
+1650297716841	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileV327uw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45825/devtools/browser/72851d4e-2cac-4af4-8e48-f292840b0e44
+1650297718215	Marionette	INFO	Listening on port 40199
+Read port: 40199
+1650297718253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650297763318	Marionette	INFO	Stopped listening on port 40199
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650297764392	geckodriver	INFO	Listening on 127.0.0.1:43935
+1650297764967	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledEpcNT"
+1650297765465	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledEpcNT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35223/devtools/browser/0fabd9ba-a828-44bd-9525-4cc273756308
+1650297766745	Marionette	INFO	Listening on port 39337
+Read port: 39337
+1650297766784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650297775006	Marionette	INFO	Stopped listening on port 39337
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650297793184	geckodriver	INFO	Listening on 127.0.0.1:44597
+1650297793753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38395" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile36q0d3"
+1650297794244	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile36q0d3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38395/devtools/browser/9127906e-c649-4302-9162-b669290fb137
+1650297795479	Marionette	INFO	Listening on port 43759
+Read port: 43759
+1650297795570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650297800628	Marionette	INFO	Stopped listening on port 43759
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650297823766	geckodriver	INFO	Listening on 127.0.0.1:60209
+1650297824337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7M5csK"
+1650297824813	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7M5csK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41301/devtools/browser/c47e7fa7-18d0-4e81-9d11-7237499aef14
+1650297826130	Marionette	INFO	Listening on port 45119
+Read port: 45119
+1650297826166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650297841022	Marionette	INFO	Stopped listening on port 45119
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650297898912	geckodriver	INFO	Listening on 127.0.0.1:60187
+1650297899023	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSONwlT"
+1650297899507	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSONwlT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44839/devtools/browser/09565cf3-350c-4f4c-b594-4a32d9d01fdc
+1650297900715	Marionette	INFO	Listening on port 34281
+Read port: 34281
+1650297900745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650297956507	geckodriver	INFO	Listening on 127.0.0.1:37775
+1650297957059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSgdcXV"
+1650297957562	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSgdcXV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53645/devtools/browser/f4637af1-524a-428b-9e32-b3b629d01b21
+1650297959009	Marionette	INFO	Listening on port 43793
+Read port: 43793
+1650297959098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650298001837	geckodriver	INFO	Listening on 127.0.0.1:54137
+1650298001899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewZ0Zsi"
+1650298002492	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewZ0Zsi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58849/devtools/browser/6fadf388-8485-44d1-96de-b6a5a2734076
+1650298003878	Marionette	INFO	Listening on port 43149
+Read port: 43149
+1650298003931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650298044822	Marionette	INFO	Stopped listening on port 34281
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650298045604	Marionette	INFO	Stopped listening on port 43793
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650298046534	Marionette	INFO	Stopped listening on port 43149
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650298049982	geckodriver	INFO	Listening on 127.0.0.1:41459
+1650298050071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledNb316"
+1650298050609	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledNb316/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44165/devtools/browser/442c7a21-1191-497f-b97c-01a5d57b9c46
+1650298051792	Marionette	INFO	Listening on port 38521
+Read port: 38521
+1650298051894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650298097665	Marionette	INFO	Stopped listening on port 38521
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650298110911	geckodriver	INFO	Listening on 127.0.0.1:43707
+1650298110991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRBqjiT"
+1650298111537	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRBqjiT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44839/devtools/browser/798f1a08-55a5-45a3-b092-720a09b4b95b
+1650298112785	Marionette	INFO	Listening on port 42493
+Read port: 42493
+1650298112813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650298155567	Marionette	INFO	Stopped listening on port 42493
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650298157550	geckodriver	INFO	Listening on 127.0.0.1:46405
+1650298157656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50163" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevBvhmv"
+1650298158203	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevBvhmv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50163/devtools/browser/68ecdc1e-57b8-45c4-a4b4-f22870f73de8
+1650298159627	Marionette	INFO	Listening on port 34693
+Read port: 34693
+1650298159696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650298183009	Marionette	INFO	Stopped listening on port 34693
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650298186831	geckodriver	INFO	Listening on 127.0.0.1:38109
+1650298187403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekRxDUX"
+1650298187882	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekRxDUX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41477/devtools/browser/35701b17-1e36-401c-9eb9-83e90c294750
+1650298189041	Marionette	INFO	Listening on port 45715
+Read port: 45715
+1650298189123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650298267874	Marionette	INFO	Stopped listening on port 45715
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650298270796	geckodriver	INFO	Listening on 127.0.0.1:59647
+1650298271369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8IidKv"
+1650298271840	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8IidKv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44783/devtools/browser/3c3d09c5-246a-4a5c-af8a-000676e85187
+1650298273016	Marionette	INFO	Listening on port 34383
+Read port: 34383
+1650298273087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650298335974	Marionette	INFO	Stopped listening on port 34383
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650298581903	geckodriver	INFO	Listening on 127.0.0.1:55625
+1650298582473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42561" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVCzdM0"
+1650298582949	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVCzdM0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42561/devtools/browser/ba1e8745-9c1a-4134-a258-96d7ff1134c6
+1650298584136	Marionette	INFO	Listening on port 36531
+Read port: 36531
+1650298584189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650298589068	Marionette	INFO	Stopped listening on port 36531
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1650298589120	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+[2022-04-18T16:16:29Z ERROR glean] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1650298622193	geckodriver	INFO	Listening on 127.0.0.1:33897
+1650298622764	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFxLakr"
+1650298623235	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFxLakr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56975/devtools/browser/d7cda9bf-7dd7-4e2f-90db-16d4b13db659
+1650298624417	Marionette	INFO	Listening on port 42451
+Read port: 42451
+1650298624482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650298644350	Marionette	INFO	Stopped listening on port 42451
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650298661715	geckodriver	INFO	Listening on 127.0.0.1:48629
+1650298662287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48689" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileH00z3d"
+1650298662777	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileH00z3d/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48689/devtools/browser/15c54dae-e1c4-45df-8f24-7e1d77ba361e
+1650298663966	Marionette	INFO	Listening on port 41717
+Read port: 41717
+1650298664004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650298717989	Marionette	INFO	Stopped listening on port 41717
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650298784323	geckodriver	INFO	Listening on 127.0.0.1:33377
+1650298784893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2mqTVR"
+1650298785374	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2mqTVR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57637/devtools/browser/808ccd2f-1f9a-4883-aca8-d1e266fb036a
+1650298786595	Marionette	INFO	Listening on port 34431
+Read port: 34431
+1650298786722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650298954248	Marionette	INFO	Stopped listening on port 34431
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650298958239	geckodriver	INFO	Listening on 127.0.0.1:38131
+1650298958812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49361" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRLtr2R"
+1650298959274	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRLtr2R/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49361/devtools/browser/da620656-ecd6-4d72-826b-dee8cac6a406
+1650298960467	Marionette	INFO	Listening on port 41081
+Read port: 41081
+1650298960527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650298971221	Marionette	INFO	Stopped listening on port 41081
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650298986708	geckodriver	INFO	Listening on 127.0.0.1:54945
+1650298986779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6LVl1j"
+1650298987278	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6LVl1j/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56257/devtools/browser/7c0c2e68-5b5d-44d8-8e39-e49ea00af834
+1650298988478	Marionette	INFO	Listening on port 32877
+Read port: 32877
+1650298988500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650299045712	Marionette	INFO	Stopped listening on port 32877
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650299371639	geckodriver	INFO	Listening on 127.0.0.1:37215
+1650299372213	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50275" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileT6LWhW"
+1650299372681	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT6LWhW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50275/devtools/browser/398a6422-8db6-4dc4-bb57-438e7f1ce0b3
+1650299373873	Marionette	INFO	Listening on port 42517
+Read port: 42517
+1650299373928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650299374978/Po%C5%82aniec/Krak%C3%B3w/c%7C34242/c%7C55156/22.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+JavaScript error: https://transhans.pl/cookie.js, line 39: NotFoundError: Node.removeChild: The node to be removed is not a child of this node
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650299374978/Po%C5%82aniec/Krak%C3%B3w/c%7C34242/c%7C55156/22.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650299374978/Po%C5%82aniec/Krak%C3%B3w/c%7C34242/c%7C55156/22.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650299537944	Marionette	INFO	Stopped listening on port 42517
+1650299539780	geckodriver	INFO	Listening on 127.0.0.1:54811
+1650299539851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39373" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledJIiEK"
+1650299540311	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledJIiEK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39373/devtools/browser/c2e254a3-dd2f-4621-b9db-46cd2a2aac30
+1650299541437	Marionette	INFO	Listening on port 45099
+Read port: 45099
+1650299541468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650299542517/Po%C5%82aniec/Krak%C3%B3w/c%7C34242/c%7C55156/22.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/zakup-biletu/#wybor-biletu/1650299542517/6fcc06cee1454907b0760dd0af9bd656, line 12: ReferenceError: $ is not defined
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650299595728	Marionette	INFO	Stopped listening on port 45099
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650299868867	geckodriver	INFO	Listening on 127.0.0.1:56559
+1650299868943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33721" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilef9vmL4"
+1650299869399	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilef9vmL4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33721/devtools/browser/4e7405eb-e73f-4cac-a795-51b08d1758ef
+1650299870560	Marionette	INFO	Listening on port 37797
+Read port: 37797
+1650299870660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650299871648/Po%C5%82aniec/Krak%C3%B3w/c%7C34242/c%7C55156/22.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+1650299895029	Marionette	INFO	Stopped listening on port 37797
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650300099794	geckodriver	INFO	Listening on 127.0.0.1:36143
+1650300100365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegFbZ13"
+1650300100843	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegFbZ13/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59907/devtools/browser/f416e449-ac1a-4eef-a613-ce9102830824
+1650300102040	Marionette	INFO	Listening on port 46671
+Read port: 46671
+1650300102080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650300103103/Krak%C3%B3w/Po%C5%82aniec/c%7C55156/c%7C34242/22.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.google.com"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/client/shared/sourceeditor/css-autocompleter.js, line 1182: TypeError: end is undefined
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650300103103/Krak%C3%B3w/Po%C5%82aniec/c%7C55156/c%7C34242/22.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 990"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:990:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:563:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 990, column: 0
+console.error: ({})
+
+(firefox:37688): GLib-GObject-CRITICAL **: 18:50:56.758: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:37688): GLib-GObject-CRITICAL **: 18:50:56.758: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:37688): GLib-GObject-CRITICAL **: 18:50:56.758: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:37688): GLib-GObject-CRITICAL **: 18:50:56.759: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:37688): GLib-GObject-CRITICAL **: 18:50:56.759: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:37688): GLib-GObject-CRITICAL **: 18:50:56.759: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:37688): GLib-GObject-CRITICAL **: 18:50:56.815: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:37688): GLib-GObject-CRITICAL **: 18:50:56.815: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:37688): GLib-GObject-CRITICAL **: 18:50:56.832: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:37688): GLib-GObject-CRITICAL **: 18:50:56.882: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:37688): GLib-GObject-CRITICAL **: 18:51:03.278: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1650301247577	geckodriver	INFO	Listening on 127.0.0.1:50267
+1650301248128	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55399" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilea0VLUn"
+1650301248629	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea0VLUn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55399/devtools/browser/f12ab436-5bbf-40a7-9f2e-6c74c8b3fc5f
+1650301249846	Marionette	INFO	Listening on port 36101
+Read port: 36101
+1650301249947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650301251309/Krak%C3%B3w/Po%C5%82aniec/c%7C55156/c%7C34242/22.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+1650301267644	Marionette	INFO	Stopped listening on port 36101
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650301289352	geckodriver	INFO	Listening on 127.0.0.1:57945
+1650301289913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewcMJZV"
+1650301290403	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewcMJZV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59847/devtools/browser/45dc1bb1-c222-4486-bc3f-fe1a813bda54
+1650301291647	Marionette	INFO	Listening on port 43821
+Read port: 43821
+1650301291732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650301292808/Krak%C3%B3w/Po%C5%82aniec/c%7C55156/c%7C34242/22.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+1650301342291	geckodriver	INFO	Listening on 127.0.0.1:50145
+1650301342352	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50633" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4LRV17"
+1650301342842	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4LRV17/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50633/devtools/browser/1d504291-846d-4adb-a0af-5931a38a24c9
+1650301344196	Marionette	INFO	Listening on port 34057
+Read port: 34057
+1650301344279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650301345648/Krak%C3%B3w/Po%C5%82aniec/c%7C55156/c%7C34242/22.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+1650301420275	geckodriver	INFO	Listening on 127.0.0.1:59737
+1650301420828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55375" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6ykvdq"
+1650301421410	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6ykvdq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55375/devtools/browser/7ddf829f-130e-46bb-b98a-9a82feb50e49
+1650301423076	Marionette	INFO	Listening on port 42725
+Read port: 42725
+1650301423149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650301424152/Krak%C3%B3w/Po%C5%82aniec/c%7C55156/c%7C34242/22.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+1650301576059	Marionette	INFO	Stopped listening on port 42725
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650301578034	Marionette	INFO	Stopped listening on port 34057
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650301578825	Marionette	INFO	Stopped listening on port 43821
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1650301585004	Marionette	INFO	Stopped listening on port 46671
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650301588373	geckodriver	INFO	Listening on 127.0.0.1:35631
+1650301588942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47931" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileX47Ibb"
+1650301589451	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileX47Ibb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47931/devtools/browser/20376063-dcf7-45dd-bbea-50cba63bad91
+1650301590753	Marionette	INFO	Listening on port 39517
+Read port: 39517
+1650301590860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650301592039/Krak%C3%B3w/Po%C5%82aniec/c%7C55156/c%7C34242/22.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+1650301777602	geckodriver	INFO	Listening on 127.0.0.1:49867
+1650301778151	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileV7d9S2"
+1650301778624	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileV7d9S2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58019/devtools/browser/373c38c3-9207-4067-9dd4-b3721f71c852
+1650301779882	Marionette	INFO	Listening on port 33515
+Read port: 33515
+1650301779967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+1650301785501	Marionette	INFO	Stopped listening on port 39517
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650301781117/Krak%C3%B3w/Po%C5%82aniec/c%7C55156/c%7C34242/22.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+1650301803635	Marionette	INFO	Stopped listening on port 33515
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650301829432	geckodriver	INFO	Listening on 127.0.0.1:53339
+1650301830006	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilep7cuIr"
+1650301830495	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilep7cuIr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50641/devtools/browser/ee7a6c00-9203-4af9-9915-1af42718631e
+1650301831676	Marionette	INFO	Listening on port 37677
+Read port: 37677
+1650301831721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650301832731/Krak%C3%B3w/Po%C5%82aniec/c%7C55156/c%7C34242/22.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+1650301863494	Marionette	INFO	Stopped listening on port 37677
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1650302375374	geckodriver	INFO	Listening on 127.0.0.1:48895
+1650302375946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56571" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiley6cFXD"
+1650302376408	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiley6cFXD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56571/devtools/browser/c568a3ce-7cd5-4b1d-b3ca-f8253cfc8dee
+1650302377747	Marionette	INFO	Listening on port 35361
+Read port: 35361
+1650302377767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650302378863/Krak%C3%B3w/Po%C5%82aniec/c%7C55156/c%7C34242/22.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+1650302587548	Marionette	INFO	Stopped listening on port 35361
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650302824433	geckodriver	INFO	Listening on 127.0.0.1:60079
+1650302824503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56469" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCLvaE8"
+1650302824983	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCLvaE8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56469/devtools/browser/c8e51e98-6138-45e6-8c9f-38ad868e5aa8
+1650302826199	Marionette	INFO	Listening on port 40293
+Read port: 40293
+1650302826222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650302827236/Krak%C3%B3w/Po%C5%82aniec/c%7C55156/c%7C34242/22.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+1650302863252	Marionette	INFO	Stopped listening on port 40293
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1650302865170	geckodriver	INFO	Listening on 127.0.0.1:33115
+1650302865739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49503" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWap72h"
+1650302866205	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWap72h/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49503/devtools/browser/f619c6a3-a324-4c7b-97b7-6d00facc9dd6
+1650302867411	Marionette	INFO	Listening on port 42559
+Read port: 42559
+1650302867455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650302868537/Krak%C3%B3w/Po%C5%82aniec/c%7C55156/c%7C34242/22.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+1650302917019	Marionette	INFO	Stopped listening on port 42559
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650303003061	geckodriver	INFO	Listening on 127.0.0.1:34311
+1650303003129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54237" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSiA0NK"
+1650303003590	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSiA0NK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54237/devtools/browser/9071d5cb-780a-4b07-aa1c-0fa44af2e96e
+1650303004754	Marionette	INFO	Listening on port 44789
+Read port: 44789
+1650303004852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650303005869/Krak%C3%B3w/Po%C5%82aniec/c%7C55156/c%7C34242/22.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+1650303112015	Marionette	INFO	Stopped listening on port 44789
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650303143631	geckodriver	INFO	Listening on 127.0.0.1:55793
+1650303144204	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35191" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehB1h4P"
+1650303144665	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehB1h4P/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35191/devtools/browser/38cf3ad8-f4a9-464a-9e6b-15ad84bca3cc
+1650303145822	Marionette	INFO	Listening on port 42913
+Read port: 42913
+1650303145924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+1650303158635	Marionette	INFO	Stopped listening on port 42913
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1650303158706	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: Object
+[2022-04-18T17:32:38Z ERROR glean] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650303165404	geckodriver	INFO	Listening on 127.0.0.1:44029
+1650303165972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44219" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefMYw18"
+1650303166430	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefMYw18/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44219/devtools/browser/ee37c04a-3eed-45ce-87e5-a83fb435d76b
+1650303167646	Marionette	INFO	Listening on port 36947
+Read port: 36947
+1650303167696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650303168740/Krak%C3%B3w/Po%C5%82aniec/c%7C55156/c%7C34242/22.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+1650303214406	Marionette	INFO	Stopped listening on port 36947
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650303217009	geckodriver	INFO	Listening on 127.0.0.1:60007
+1650303217580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52919" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebtz7rL"
+1650303218052	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebtz7rL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52919/devtools/browser/19e7e9e6-1889-4cfd-9c2c-369ed84db61f
+1650303219243	Marionette	INFO	Listening on port 38451
+Read port: 38451
+1650303219296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transhans.pl/, line 11: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://transhans.pl"
+JavaScript error: https://transhans.pl/wyniki-wyszukiwania/#wyniki-wyszukiwania/1650303220595/Krak%C3%B3w/Po%C5%82aniec/c%7C55156/c%7C34242/22.04.2022/--%20%3A%20--/0/0/0, line 12: ReferenceError: $ is not defined
+1650303334069	Marionette	INFO	Stopped listening on port 38451
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "xpcom-will-shutdown" is finished, it is too late to register completion condition "UserInteractionTimer 1 for document 7f0a798bf500"
